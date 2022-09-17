@@ -2,171 +2,171 @@
     "products":[
         {
             "id": 1,
-            "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
-            "price": "130",
+            "title": "A Diamond Coated Ring - Diamond Gemstone ",
+            "price": "300",
             "url": "./images/product-1.jpg",
-            "category": "Dresses"
+            "category": "Jewellery"
         },
         {
-            "id": 1,
-            "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
-            "price": "130",
+            "id": 2,
+            "title": "Plain Golden Ring - Double Rings",
+            "price": "220",
             "url": "./images/product-2.jpg",
-            "category": "Dresses"
+            "category": "Jewellery"
         },
         {
-            "id": 1,
-            "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
-            "price": "130",
+            "id": 3,
+            "title": "Silver Ring - Diamond top coated",
+            "price": "250",
             "url": "./images/product-3.jpg",
-            "category": "Dresses"
+            "category": "Jewellery"
         },
         {
-            "id": 1,
-            "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
-            "price": "130",
+            "id": 4,
+            "title": "Blue and White Pearl Earrings",
+            "price": "120",
             "url": "./images/product-4.jpg",
-            "category": "Dresses"
+            "category": "Jewellery"
         },
         {
-            "id": 1,
-            "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
-            "price": "130",
+            "id": 5,
+            "title": "A Diamond Coated Earring - Green Gemstone ",
+            "price": "210",
             "url": "./images/product-5.jpg",
-            "category": "Dresses"
+            "category": "Jewellery"
         },
         {
-            "id": 1,
-            "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
+            "id": 6,
+            "title": "Silver Stylish Stud Earring",
             "price": "130",
             "url": "./images/product-6.jpg",
-            "category": "Dresses"
+            "category": "Jewellery"
         },
         {
-            "id": 1,
-            "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
-            "price": "130",
+            "id": 7,
+            "title": "Golden Bracelets - Diamond gemstone",
+            "price": "180",
             "url": "./images/product-7.jpg",
-            "category": "Jewellery"
+            "category": "Accessories"
         },
         {
-            "id": 1,
-            "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
-            "price": "130",
+            "id": 8,
+            "title": "Plain Bronze Bracelets",
+            "price": "150",
             "url": "./images/product-8.jpg",
-            "category": "Jewellery"
+            "category": "Accessories"
         },
         {
-            "id": 1,
-            "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
-            "price": "130",
+            "id": 9,
+            "title": "Heart Top Silver Bracelets",
+            "price": "200",
             "url": "./images/product-9.jpg",
-            "category": "Jewellery"
+            "category": "Accessories"
         },
         {
-            "id": 1,
-            "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
-            "price": "130",
+            "id": 10,
+            "title": "Golden Leg Chain",
+            "price": "100",
             "url": "./images/product-10.jpg",
-            "category": "Jewellery"
+            "category": "Accessories"
         },
         {
-            "id": 1,
-            "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
+            "id": 11,
+            "title": "Heart Golden Leg Chain",
             "price": "130",
             "url": "./images/product-11.jpg",
-            "category": "Dresses"
+            "category": "Accessories"
         },
         {
-            "id": 1,
-            "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
-            "price": "130",
+            "id": 12,
+            "title": "Silver Leg Chain",
+            "price": "150",
             "url": "./images/product-12.jpg",
-            "category": "Dresses"
+            "category": "Accessories"
         },
         {
-            "id": 1,
-            "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
-            "price": "130",
+            "id": 13,
+            "title": "Chain and Golden Pendant - Red Gemstone",
+            "price": "250",
             "url": "./images/product-13.jpg",
             "category": "Dresses"
         },
         {
-            "id": 1,
-            "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
-            "price": "130",
+            "id": 14,
+            "title": "Double Pendant chain - Gold",
+            "price": "200",
             "url": "./images/product-14.jpg",
             "category": "Dresses"
         },
         {
-            "id": 1,
-            "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
-            "price": "130",
+            "id": 15,
+            "title": "Pearl Pendant Chain - Silver",
+            "price": "220",
             "url": "./images/product-15.jpg",
             "category": "Dresses"
         },
         {
-            "id": 1,
-            "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
-            "price": "130",
+            "id": 16,
+            "title": "Butterfly Diamond Necklaces",
+            "price": "280",
             "url": "./images/product-16.jpg",
             "category": "Dresses"
         },
         {
-            "id": 1,
-            "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
-            "price": "130",
+            "id": 17,
+            "title": "Diamond Large-Stoned Necklaces",
+            "price": "400",
             "url": "./images/product-17.jpg",
             "category": "Dresses"
         },
         {
-            "id": 1,
-            "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
-            "price": "130",
+            "id": 18,
+            "title": "Diamond Medium-Stoned Necklaces",
+            "price": "300",
             "url": "./images/product-18.jpg",
             "category": "Dresses"
         },
         {
-            "id": 1,
-            "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
-            "price": "130",
+            "id": 19,
+            "title": "Golden Female Wristwatch",
+            "price": "300",
             "url": "./images/product-19.jpg",
-            "category": "Dresses"
+            "category": "Footwear"
         },
         {
-            "id": 1,
-            "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
-            "price": "130",
+            "id": 20,
+            "title": "Female Rose Gold Wristwatch",
+            "price": "280",
             "url": "./images/product-20.jpg",
-            "category": "Dresses"
+            "category": "Footwear"
         },
         {
-            "id": 1,
-            "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
-            "price": "130",
+            "id": 21,
+            "title": "black Unisex Leather Wristwatch",
+            "price": "250",
             "url": "./images/product-21.jpg",
-            "category": "Dresses"
+            "category": "Footwear"
         },
         {
-            "id": 1,
-            "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
-            "price": "130",
+            "id": 22,
+            "title": "Male Silver Wristwatch",
+            "price": "200",
             "url": "./images/product-22.jpg",
-            "category": "Dresses"
+            "category": "Footwear"
         },
         {
-            "id": 1,
-            "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
-            "price": "130",
+            "id": 23,
+            "title": "Blue Chained Wristwatch",
+            "price": "220",
             "url": "./images/product-23.jpg",
-            "category": "Dresses"
+            "category": "Footwear"
         },
         {
-            "id": 1,
-            "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
-            "price": "130",
+            "id": 24,
+            "title": "Brown Leather Wristwatch",
+            "price": "210",
             "url": "./images/product-24.jpg",
-            "category": "Dresses"
+            "category": "Footwear"
         }
     ]
 }

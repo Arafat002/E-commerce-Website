@@ -801,7 +801,7 @@ img {
 
 @media (max-width: 1200px) {
   .footer .col:first-child {
-    display: none;
+    display: block;
   }
   .footer .row {
     display: block;
